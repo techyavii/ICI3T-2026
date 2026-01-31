@@ -165,23 +165,23 @@ const Registration: React.FC = () => {
                 <tbody>
                   <tr>
                     <td className="border border-gray-300 px-4 py-2">Research Student Author (Physical Mode)</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $300</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $330</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $300</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $330</td>
                   </tr>
                   <tr className="bg-[#f9f5e9]/50">
                     <td className="border border-gray-300 px-4 py-2">Research Student Author (Online Mode)</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $200</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $230</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $200</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $230</td>
                   </tr>
                   <tr>
                     <td className="border border-gray-300 px-4 py-2">Standard Authors (Physical Mode)</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $350</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $380</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $350</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $380</td>
                   </tr>
                   <tr className="bg-[#f9f5e9]/50">
                     <td className="border border-gray-300 px-4 py-2">Standard Authors (Online Mode)</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $220</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $270</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $220</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $270</td>
                   </tr>
                 </tbody>
               </table>
@@ -207,13 +207,13 @@ const Registration: React.FC = () => {
                 <tbody>
                   <tr>
                     <td className="border border-gray-300 px-4 py-2">Research Student Participants</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $200</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $250</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $200</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $250</td>
                   </tr>
                   <tr className="bg-[#f9f5e9]/50">
                     <td className="border border-gray-300 px-4 py-2">Standard Participants</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $250</td>
-                    <td className="border border-gray-300 px-4 py-2">GBP $300</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $250</td>
+                    <td className="border border-gray-300 px-4 py-2">USD $300</td>
                   </tr>
                 </tbody>
               </table>

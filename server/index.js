@@ -49,7 +49,7 @@ app.post("/create-checkout-session", async (req, res) => {
   try {
     const userType = req.body.participantType;
     let fees = userType==='Others'?req.body.price * 100 :prices[userType];
-    let currencyCode = "gbp";
+    let currencyCode = "";
 
     if (req.body.country === "India") {
       currencyCode = "inr";

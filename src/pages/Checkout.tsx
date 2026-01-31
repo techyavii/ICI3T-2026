@@ -24,7 +24,7 @@ const CheckoutForm : React.FC = () => {
     e.preventDefault();
     try {
       // console.log(participantType)
-      let country = "gbp";
+      let country = "usd"
       const ipResp=await axios.get("https://extreme-ip-lookup.com/json/?key=raZUg7OdrMqIABCEZxQV");
       country=ipResp?.data?.country;      
            
