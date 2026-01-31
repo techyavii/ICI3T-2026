@@ -230,7 +230,9 @@ const Registration: React.FC = () => {
                 <CardContent className="flex flex-col items-center justify-center p-6">
                   <CreditCard className="h-10 w-10 mb-4 text-[#001324]" />
                   <h3 className="font-bold text-lg mb-2">Registration via Stripe</h3>
-                  <Link to="/checkout"><Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Stripe</Button></Link>
+                  {/* <Link to="/checkout"><Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Stripe</Button></Link> */}
+                  <Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Stripe</Button>
+
                 </CardContent>
               </Card>
               <Card>
@@ -238,14 +240,17 @@ const Registration: React.FC = () => {
                   <CreditCard className="h-10 w-10 mb-4 text-[#001324]" />
                   <h3 className="font-bold text-lg mb-2">Registration via Razorpay</h3>
                   <p className="text-sm text-center text-gray-500 mb-2">(only for SAARC Nations)</p>
-                  <a href='https://rzp.io/rzp/UTwHWlmV'><Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Razorpay</Button></a>
+                  {/* <a href='https://rzp.io/rzp/UTwHWlmV'><Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Razorpay</Button></a> */}
+                  <Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with Razorpay</Button>
+
                 </CardContent>
               </Card>
               <Card>
                 <CardContent className="flex flex-col items-center justify-center p-6">
                   <CreditCard className="h-10 w-10 mb-4 text-[#001324]" />
                   <h3 className="font-bold text-lg mb-2">Registration via PayPal</h3>
-                  <a href='https://paypal.me/adroidconference?country.x=IN&locale.x=en_GB'><Button className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with PayPal</Button></a>
+                  {/* <a  href='https://paypal.me/adroidconference?country.x=IN&locale.x=en_GB'><Button  className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with PayPal</Button></a> */}
+                  <Button  className="mt-2 bg-[#001324] hover:bg-[#333333]">Pay with PayPal</Button>
                 </CardContent>
               </Card>
             </div>
