@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
   International Conference on Intelligent, Interconnected &amp; Innovative Technologies
   </p>
   <p className="font-publico text-sm">January 25-26, 2027</p>
-  <p className="font-publico text-sm">University of Essex, England, UK</p>
+  <p className="font-publico text-sm">TBD</p>
   </div>
 
     {/* Contact Info */}

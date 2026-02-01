@@ -30,7 +30,7 @@ const ConferenceBanner = () => {
           </h1>
           <h2 className="text-base md:text-xl font-medium mb-2">(ICI3T 2026)</h2>
           <p className="text-sm md:text-base font-medium mb-2">
-            Organiser: University of Essex, England, UK
+            Organiser: TBD
           </p>
           <div className="flex items-center justify-center text-sm md:text-base mb-2">
             <Calendar className="mr-2" size={16} />
@@ -42,13 +42,13 @@ const ConferenceBanner = () => {
         </div>
 
         {/* Right Logo - University Logo */}
-        <div className="bg-white p-2 rounded-lg shadow-sm inline-block">
+        {/* <div className="bg-white p-2 rounded-lg shadow-sm inline-block">
           <img
             src="/lovable-uploads/logo.png"
             alt="University of Essex"
             className="h-16 md:h-20 w-auto"
           />
-        </div>
+        </div> */}
       </div>
     </div>
   );

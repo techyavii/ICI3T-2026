@@ -12,7 +12,7 @@ const IndexingSection: React.FC = () => {
               ICI3T 2026: PREMIER GLOBAL FORUM FOR NETWORKS, COMPUTING SYSTEMS, AND DATA ANALYTICS
             </span>
             <span className="text-lg font-bold mx-8">
-              JOIN US AT UNIVERSITY OF ESSEX, ENGLAND, UK • 29-30 MAY 2026
+              JOIN US AT TBD • 29-30 MAY 2026
             </span>
             <span className="text-lg font-bold mx-8">
               EXPLORING NETWORKING, COMPUTING, AND DATA-DRIVEN TECHNOLOGIES
@@ -26,7 +26,7 @@ const IndexingSection: React.FC = () => {
             ICI3T 2026 Conference Information
           </h2>
           <p className="text-blue-600 font-semibold text-lg">
-            [ January 25-26, 2027 - University of Essex, England, UK ]
+            [ January 25-26, 2027 - TBD ]
           </p>
         </div>
 
