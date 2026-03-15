@@ -33,26 +33,25 @@ const AboutUs: React.FC = () => {
             
             <div className="md:w-2/3">
               <h2 className="font-druk text-2xl md:text-3xl text-goldsmiths-text mb-6 border-b-4 border-goldsmiths-blue pb-2 inline-block">
-                About the University
+                Organising Institute
               </h2>
               
               <div className="bg-white shadow-lg border border-gray-200 rounded-lg p-6">
                 <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-                  The University of Essex is a public research university in Essex, England, known for its international outlook, ranking 17th globally for international outlook. Its main campus is located on over 200 acres near Colchester, about 45 minutes from London by train.
-                </p>
-                <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-                  The university has strengths in various fields, including sociology, economics, politics, and modern languages, with its main campus featuring separate north, central, and south areas containing accommodation, academic buildings, and student facilities like libraries, sports centers, and social spaces.
-                </p>
-                <p className="font-publico text-lg text-goldsmiths-text leading-relaxed">
-                  The University of Essex is committed to excellence in research and education, fostering an environment that encourages innovation, collaboration, and global engagement. The university's commitment to international collaboration and cutting-edge research makes it an ideal host for the International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026).
-                </p>
+              The International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026) is organised by "Gheorghe Asachi" Technical University of Iasi, Romania, a leading technical university with a strong tradition of research and education in engineering, information technology, and applied sciences.
+            </p>
+            <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
+              Established in 1813, "Gheorghe Asachi" Technical University of Iasi is one of the oldest technical universities in Eastern Europe. It is dedicated to international cooperation, advanced technological innovation, and building bridges between academic research and industry impact.
+            </p>
+            <p className="font-publico text-lg text-goldsmiths-text leading-relaxed">
+              As organiser of ICI3T 2026, the university brings together global experts, delegates, and thought leaders to foster interdisciplinary dialogue and address the challenges of tomorrow in intelligent systems and interconnected technologies.
+            </p>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      
       <Footer />
     </div>
   );

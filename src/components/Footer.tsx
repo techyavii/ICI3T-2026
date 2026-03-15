@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
   <p className="font-publico mb-2">
   International Conference on Intelligent, Interconnected &amp; Innovative Technologies
   </p>
-  <p className="font-publico text-sm">January 25-26, 2027</p>
+  <p className="font-publico text-sm">October 26-27, 2026</p>
   <p className="font-publico text-sm">TBD</p>
   </div>
 
@@ -23,12 +23,12 @@ const Footer: React.FC = () => {
         <div className="flex items-center">
           <Mail className="mr-2" size={16} />
           <div className="font-publico text-sm">
-            <div>ICI3T@essex.ac.uk</div>
+            <div>ici3t@gmail.com</div>
           </div>
         </div>
     <div className="flex items-center">
     <MapPin className="mr-2" size={16} />
-    <span className="font-publico text-sm">University of Essex, Colchester, Essex, England, UK</span>
+    <span className="font-publico text-sm"> "Gheorghe Asachi" Technical University of Iasi, Romania</span>
     </div>
     </div>
     </div>

@@ -16,7 +16,7 @@ const ImportantDatesSection: React.FC = () => {
     { title: "Acceptance Notification Due", date: "August 30, 2026" },
     { title: "Registration Due", date: "September 29, 2026" },
     { title: "Camera Ready Submission", date: "October 10th, 2026" },
-    { title: "Conference Dates", date: "January 25-26, 2027" }
+    { title: "Conference Dates", date: "October 26-27, 2026" }
   ];
 
 
