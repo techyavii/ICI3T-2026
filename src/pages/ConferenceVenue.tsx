@@ -4,16 +4,16 @@ import { Map, MapPin, Building } from 'lucide-react';
 
 const ConferenceVenue = () => {
   const venueImages = [
-    { src: "/lovable-uploads/lasi1.webp", alt: "University of Essex Campus" },
-    { src: "/lovable-uploads/lasi2.jpg", alt: "University of Essex Building" },
-    { src: "/lovable-uploads/lasi3.jpg", alt: "University of Essex Entrance" },
-    { src: "/lovable-uploads/lasi4.webp", alt: "Aerial view of University of Essex" },
+    { src: "/temp/4.jpeg", alt: "School of Open Learning Campus" },
+    { src: "/temp/6.webp", alt: "University of Delhi Building" },
+    { src: "/temp/7.webp", alt: "University of Delhi Entrance" },
+    { src: "/temp/2.jpeg", alt: "Aerial view of University of Delhi" },
   ];
 
   const locationImages = [
-    { src: "/lovable-uploads/romania1.webp", alt: "Colchester city view" },
-    { src: "/lovable-uploads/romania2.jpeg", alt: "London cityscape near Essex" },
-    { src: "/lovable-uploads/romania3.jpg", alt: "Albert Sloman Library at Essex" }
+    { src: "/temp/d1.jpg", alt: "Delhi city view" },
+    { src: "/temp/d2.jpg", alt: "University of Delhi campus" },
+    { src: "/temp/d3.webp", alt: "Delhi landmarks" }
   ];
 
   return (
@@ -37,25 +37,25 @@ const ConferenceVenue = () => {
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col justify-center">
-              <h2 className="text-3xl font-semibold mb-4 text-blue-600">"Gheorghe Asachi" Technical University of Iasi</h2>
+              <h2 className="text-3xl font-semibold mb-4 text-blue-600">School of Open Learning, University of Delhi</h2>
               <div className="flex items-start gap-3 mb-3">
                 <Building className="mt-1 flex-shrink-0" size={20} />
                 <p>
-                  "Gheorghe Asachi" Technical University of Iasi is Romania’s leading technical university with a rich heritage in engineering, computer science, and applied technologies. Founded in 1813, it is internationally recognized for research excellence, academic innovation, and strong industry collaboration.
+                  School of Open Learning, University of Delhi is a premier institution offering open and distance learning programs. It provides flexible education opportunities to a diverse student community, focusing on academic excellence and innovation in various disciplines.
                 </p>
               </div>
               <div className="flex items-start gap-3 mb-3">
                 <MapPin className="mt-1 flex-shrink-0" size={20} />
-                <p>60 Dimitrie Mangeron Blvd, 700050 Iași, Romania</p>
+                <p>Seminar Room, School of Open Learning, 5 Cavalry Lines, University of Delhi, Delhi-110007</p>
               </div>
               <a 
-                href="https://www.google.com/maps?q=Gheorghe+Asachi+Technical+University+Ia%C8%99i+Romania" 
+                href="https://share.google/DJL0Ewj7sIg86WslW" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-blue-600 hover:underline mt-2"
               >
                 <Map className="mr-1" size={16} />
-                View on Google Maps
+                View Location
               </a>
             </div>
           </div>
@@ -65,12 +65,12 @@ const ConferenceVenue = () => {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h2 className="text-3xl font-semibold mb-4 text-blue-600">LOCATION</h2>
               <p className="text-justify">
-                The University’s Colchester Campus is located in the scenic Wivenhoe Park — a historic estate surrounded by green spaces and lakes. The campus is divided into North, Central, and South areas, hosting accommodation, academic buildings, and vibrant student facilities such as libraries, sports centers, and social hubs.
+                The University of Delhi is India's premier university, located in the heart of New Delhi. The School of Open Learning is situated in the historic Cavalry Lines area, providing a conducive environment for academic and research activities. The campus offers modern facilities and easy access to the city's cultural and academic resources.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2713.166281385506!2d27.596815712767665!3d47.15459767103157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40cafb989a8fd58f%3A0x9555362d21a1311!2sTechnical%20University%20Gheorghe%20Asachi%20Iasi!5e0!3m2!1sen!2sin!4v1773592964646!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.123456789012!2d77.206615!3d28.613939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2daa9eb4d0b%3A0x717971125923e5d!2sUniversity%20of%20Delhi!5e0!3m2!1sen!2sin!4v1690000000000!5m2!1sen!2sin"
                 width="100%" 
                 height="300" 
                 style={{border: 0}} 
@@ -86,18 +86,18 @@ const ConferenceVenue = () => {
           <div className="bg-white p-8 rounded-lg shadow-md mb-8">
             <h2 className="text-3xl font-semibold mb-6 text-center text-blue-600">ACADEMIC EXCELLENCE</h2>
             <p className="text-justify mb-6">
-              "Gheorghe Asachi" Technical University of Iasi continues to be a hub of academic excellence in Romania and Eastern Europe. It is renowned for its multidisciplinary approach, strong research output, and strategic partnerships with industry and international institutions.
+              School of Open Learning, University of Delhi continues to be a hub of academic excellence in India. It is renowned for its commitment to accessible education, strong research output, and partnerships with academic and industry institutions.
             </p>
             <p className="text-justify text-gray-600 text-sm">
-              Students benefit from modern laboratories, interdisciplinary research centers, and a diverse academic environment. With a focus on innovation, sustainability, and global collaboration, the university prepares graduates to lead in technology and engineering fields worldwide.
+              Students and researchers benefit from modern facilities, interdisciplinary programs, and a diverse academic environment. With a focus on innovation, inclusivity, and global collaboration, the institution prepares learners to lead in various fields worldwide.
             </p>
           </div>
 
           {/* Iasi & Romania section */}
           <div className="bg-white p-8 rounded-lg shadow-md">
-            <h2 className="text-3xl font-semibold mb-6 text-center text-blue-600">IAȘI & ROMANIA</h2>
+            <h2 className="text-3xl font-semibold mb-6 text-center text-blue-600">DELHI & INDIA</h2>
             <p className="mb-6 text-justify">
-              Iași is Romania’s historic cultural and academic center, with UNESCO heritage sites, museums, and a vibrant student community. The city offers visitors a rich combination of history, modern amenities, and easy transportation links to Bucharest and neighboring European cities. Participants can enjoy both academic engagement at the university and cultural exploration across the region.
+              Delhi is India's capital city, a blend of ancient history and modern dynamism. As the seat of government and education, it hosts numerous prestigious institutions including the University of Delhi. The city offers participants a rich combination of cultural heritage, academic excellence, and vibrant urban life. Visitors can enjoy both the conference proceedings at the School of Open Learning and explore Delhi's historical monuments, museums, and diverse culinary scene.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

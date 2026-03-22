@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
         </div>
     <div className="flex items-center">
     <MapPin className="mr-2" size={16} />
-    <span className="font-publico text-sm"> "Gheorghe Asachi" Technical University of Iasi, Romania</span>
+    <span className="font-publico text-sm"> School of Open Learning, University of Delhi, India</span>
     </div>
     </div>
     </div>

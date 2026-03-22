@@ -20,6 +20,10 @@ const organisingChairs = [
   // { name: "Dr. Sandra Cespedes", affiliation: "Concordia University, Canada" },
 ];
 
+const convener = [
+  { name: "Prof. Projesh Roy", affiliation: "Joint Director, Campus of Open Learning, University of Delhi, India" },
+];
+
 const technicalProgramChairs = [
   { name: "Prof. Wenjia Li", affiliation: "New York Institute of Technology, USA" },
   { name: "Prof. Kuljeet Kaur", affiliation: "ÉTS Montréal, Canada" },
@@ -141,6 +145,7 @@ const technicalProgramCommittee = [
           </h1>
 
           <div className="space-y-8">
+            <CommitteeSection title="Convener" members={convener} />
             <CommitteeSection title="General Chair(s)" members={generalChairs} />
             <CommitteeSection title="Honorary Chair(s)" members={honoraryChairs} />
             <CommitteeSection title="Organising Chair(s)" members={organisingChairs} />

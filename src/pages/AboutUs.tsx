@@ -38,13 +38,13 @@ const AboutUs: React.FC = () => {
               
               <div className="bg-white shadow-lg border border-gray-200 rounded-lg p-6">
                 <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-              The International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026) is organised by "Gheorghe Asachi" Technical University of Iasi, Romania, a leading technical university with a strong tradition of research and education in engineering, information technology, and applied sciences.
+              The International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026) is organised by School of Open Learning, University of Delhi, India, a premier institution dedicated to open and distance learning with a strong tradition of research and education in various disciplines.
             </p>
             <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-              Established in 1813, "Gheorghe Asachi" Technical University of Iasi is one of the oldest technical universities in Eastern Europe. It is dedicated to international cooperation, advanced technological innovation, and building bridges between academic research and industry impact.
+              Established as part of the University of Delhi, School of Open Learning is committed to providing accessible education and fostering innovation in technology and interdisciplinary studies.
             </p>
             <p className="font-publico text-lg text-goldsmiths-text leading-relaxed">
-              As organiser of ICI3T 2026, the university brings together global experts, delegates, and thought leaders to foster interdisciplinary dialogue and address the challenges of tomorrow in intelligent systems and interconnected technologies.
+              As organiser of ICI3T 2026, the institution brings together global experts, delegates, and thought leaders to foster interdisciplinary dialogue and address the challenges of tomorrow in intelligent systems and interconnected technologies.
             </p>
               </div>
             </div>

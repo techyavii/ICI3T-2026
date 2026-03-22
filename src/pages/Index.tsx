@@ -11,13 +11,12 @@ import AssociatedPartners from '@/components/AssociatedPartners';
 
 const Index: React.FC = () => {
   const carouselImages = [
-    { src: "/lovable-uploads/lasi1.webp", alt: "University of Essex Campus" },
-    { src: "/lovable-uploads/lasi2.jpg", alt: "University of Essex Building" },
-    { src: "/lovable-uploads/lasi3.jpg", alt: "University of Essex Entrance" },
-    { src: "/lovable-uploads/lasi4.webp", alt: "Aerial view of University of Essex" },
-    { src: "/lovable-uploads/lasi5.webp", alt: "University of Essex campus with students" },
-    { src: "/lovable-uploads/lasi6.webp", alt: "University of Essex Modern Building" },
-    { src: "/lovable-uploads/lasi7.webp", alt: "University of Essex Modern Building" },
+    { src: "/temp/4.jpeg", alt: "Aerial view of University of Essex" },
+    { src: "/temp/6.webp", alt: "University of Essex campus with students" },
+    { src: "/temp/7.webp", alt: "University of Essex Modern Building" },
+    { src: "/temp/1.jpeg", alt: "University of Essex Campus" },
+    { src: "/temp/2.jpeg", alt: "University of Essex Building" },
+    { src: "/temp/3.jpeg", alt: "University of Essex Entrance" },
   ];
 
   return (

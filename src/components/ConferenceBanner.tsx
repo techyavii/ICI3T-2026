@@ -30,7 +30,7 @@ const ConferenceBanner = () => {
           </h1>
           <h2 className="text-base md:text-xl font-medium mb-2">(ICI3T 2026)</h2>
           <p className="text-sm md:text-base font-medium mb-2">
-            Organiser: "Gheorghe Asachi" Technical University of Iasi, Romania
+            Organiser: School of Open Learning, University of Delhi, India
           </p>
           <div className="flex items-center justify-center text-sm md:text-base mb-2">
             <Calendar className="mr-2" size={16} />
@@ -44,8 +44,8 @@ const ConferenceBanner = () => {
         {/* Right Logo - University Logo */}
         <div className="bg-white p-2 rounded-lg shadow-sm inline-block">
           <img
-            src="/lovable-uploads/lasi.jpeg"
-            alt="Technical University Gheorghe Asachi iasi Romani"
+            src="/temp/logo.png"
+            alt="School of Open Learning, University of Delhi"
             className="h-16 md:h-20 w-auto"
           />
         </div>

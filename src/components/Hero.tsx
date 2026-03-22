@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
           (ICI3T 2026)
         </h2>
         <p className="font-graphik text-lg md:text-xl mb-8 text-center">
-          5-6th June 2026 — Dong Nai Technology University, Vietnam
+          October 26-27, 2026 — School of Open Learning, University of Delhi, India
         </p>
         <p className="font-publico text-base md:text-lg mb-8 text-center">
           Bringing together researchers and industry on AI, IoT, Smart Grids, Green Energy, and sustainable systems
