@@ -31,7 +31,7 @@ const About: React.FC = () => {
           <p className="font-publico text-lg text-goldsmiths-text leading-relaxed text-justify">
             <strong>ICI3T invites original research papers, case studies, and industrial experiences that address current trends, breakthroughs, and future directions in the interdisciplinary areas of networks, computing systems, and data analytics.</strong>
           </p>
-          <Link to="https://cmt3.research.microsoft.com/ICI3T2026" >
+          <Link to="https://cmt3.research.microsoft.com/ICIIIT2026" >
             <Button className="mt-4">Paper Submission Link</Button>
           </Link>
         </div>
