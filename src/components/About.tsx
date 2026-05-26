@@ -15,7 +15,7 @@ const About: React.FC = () => {
         
         <div className="max-w-4xl mx-auto bg-white shadow-lg border border-gray-200 rounded-lg p-6">
           <p className="font-publico text-lg text-goldsmiths-text mb-6 leading-relaxed text-justify">
-            The International Conference on Intelligent, Interconnected &amp; Innovative Technologies
+            International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies 
             (ICI3T 2026) aims to provide a premier international platform for researchers, academicians,
             industry professionals, and practitioners to present and exchange recent advances, research
             findings, and innovative ideas in the domains of intelligent systems, interconnected

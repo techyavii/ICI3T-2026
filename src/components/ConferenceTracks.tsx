@@ -6,74 +6,86 @@ const ConferenceTracks: React.FC = () => {
   const tracks = [
   {
     id: 1,
-    title: "Internet of Things & Smart Systems",
-    icon: Network,
+    title: "Intelligent Computing & Artificial Intelligence",
+    icon: Cpu,
     topics: [
-      "IoT architectures and protocols",
-      "Smart cities and smart infrastructure",
-      "Industrial IoT and automation",
-      "IoT applications in healthcare, agriculture, and energy",
-      "IoT security and privacy"
+      "Artificial Intelligence and Machine Learning",
+      "Deep Learning and Neural Networks",
+      "Explainable AI",
+      "Natural Language Processing",
+      "Computer Vision and Image Processing",
+      "Reinforcement Learning",
+      "Cognitive Computing",
+      "Intelligent Decision Support Systems",
+      "Robotics and Autonomous Systems",
+      "AI for Healthcare, Education, and Smart Cities"
     ]
   },
   {
     id: 2,
-    title: "Intelligent Computing & Artificial Intelligence",
-    icon: Cpu,
+    title: "Data Science & Innovative Data Technologies",
+    icon: Database,
     topics: [
-      "Machine learning and deep learning",
-      "Explainable AI and ethical AI",
-      "AI for IoT and edge intelligence",
-      "Natural language processing and computer vision",
-      "Intelligent decision support systems"
+      "Big Data Analytics",
+      "Data Mining and Knowledge Discovery",
+      "Predictive Analytics",
+      "Business Intelligence",
+      "Data Visualization",
+      "Cloud Data Platforms",
+      "Data Warehousing",
+      "Real-Time Data Processing",
+      "Data Governance and Ethics",
+      "Smart Data Management",
+      "Industrial Data Analytics",
+      "Social Network Analytics"
     ]
   },
   {
     id: 3,
-    title: "Cloud, Edge & Distributed Computing",
-    icon: Database,
+    title: "Information & Communication Technologies",
+    icon: Network,
     topics: [
-      "Cloud and fog computing",
-      "Edge intelligence and edge analytics",
-      "Distributed systems and services",
-      "Resource management and optimization",
-      "Serverless and container-based computing"
+      "Wireless Communication",
+      "5G/6G Networks",
+      "Internet of Things (IoT)",
+      "Edge and Fog Computing",
+      "Mobile Computing",
+      "Cyber-Physical Systems",
+      "Human-Computer Interaction",
+      "Multimedia Technologies",
+      "Smart Communication Systems",
+      "Software Engineering and Applications"
     ]
   },
   {
     id: 4,
-    title: "Data Science & Big Data Analytics",
+    title: "Cybersecurity & Privacy",
     icon: Shield,
     topics: [
-      "Big data architectures and frameworks",
-      "Data mining and knowledge discovery",
-      "Real-time data analytics",
-      "Data security and privacy",
-      "Visualization and data-driven intelligence"
+      "Information Security",
+      "Network Security",
+      "Blockchain Technologies",
+      "Digital Forensics",
+      "Privacy-Preserving Technologies",
+      "Cryptography and Authentication",
+      "Cyber Threat Intelligence",
+      "Secure Cloud Computing"
     ]
   },
   {
     id: 5,
-    title: "Communication & Networking Technologies",
-    icon: Network,
-    topics: [
-      "5G/6G networks and beyond",
-      "Wireless sensor networks",
-      "Software-defined networking",
-      "Network security and performance optimization",
-      "Vehicular and mobile ad hoc networks"
-    ]
-  },
-  {
-    id: 6,
-    title: "Cyber-Physical Systems & Emerging Technologies",
+    title: "Emerging and Interdisciplinary Technologies",
     icon: Rocket,
     topics: [
-      "Digital twins",
-      "Cyber-physical system design",
-      "Blockchain and decentralized systems",
-      "Quantum-inspired computing",
-      "Sustainable and green technologies"
+      "Quantum Computing",
+      "Green Computing",
+      "Industry 5.0",
+      "Smart Manufacturing",
+      "Digital Twin Technologies",
+      "FinTech and Smart Banking",
+      "Intelligent Transportation Systems",
+      "AR/VR Applications",
+      "Sustainable Computing Technologies"
     ]
   }
 ];

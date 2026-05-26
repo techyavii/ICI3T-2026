@@ -38,7 +38,7 @@ const AboutUs: React.FC = () => {
               
               <div className="bg-white shadow-lg border border-gray-200 rounded-lg p-6">
                 <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-              The International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026) is organised by "Gheorghe Asachi" Technical University of Iasi, Romania, a leading technical university with a strong tradition of research and education in engineering, information technology, and applied sciences.
+              International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies  (ICI3T 2026) is organised by "Gheorghe Asachi" Technical University of Iasi, Romania, a leading technical university with a strong tradition of research and education in engineering, information technology, and applied sciences.
             </p>
             <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
               Established in 1813, "Gheorghe Asachi" Technical University of Iasi is one of the oldest technical universities in Eastern Europe. It is dedicated to international cooperation, advanced technological innovation, and building bridges between academic research and industry impact.
