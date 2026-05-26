@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
     >
       <div className="container mx-auto px-4 py-14 text-center text-white">
         <h1 className="font-druk text-3xl md:text-5xl lg:text-6xl mb-4 leading-tight text-center">
-          International Conference on<br />Smart Technologies & Sustainable Systems
+          International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies
         </h1>
         <h2 className="font-graphik text-xl md:text-2xl lg:text-3xl mb-6 text-goldsmiths-yellow text-center">
           (ICI3T 2026)

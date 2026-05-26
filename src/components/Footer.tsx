@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
   <div>
   <h3 className="font-druk text-xl mb-4">ICI3T 2026</h3>
   <p className="font-publico mb-2">
-  International Conference on Intelligent, Interconnected &amp; Innovative Technologies
+  International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies
   </p>
   <p className="font-publico text-sm">October 26-27, 2026</p>
   <p className="font-publico text-sm">TBD</p>

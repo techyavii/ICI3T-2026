@@ -10,7 +10,7 @@ const CallForPapers: React.FC = () => {
 
           <div className="mb-8">
             <p className="font-publico text-lg mb-4">
-              International Conference on Intelligent, Interconnected &amp; Innovative Technologies (ICI3T 2026) aims to bring together leading academicians, researchers, innovators, and industry experts to explore cutting-edge advancements in smart technologies and their role in building sustainable systems for the future.
+              International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies (ICI3T 2026) aims to bring together leading academicians, researchers, innovators, and industry experts to explore cutting-edge advancements in data-driven computing, intelligent systems, and technology innovation for the future.
             </p>
             <p className="font-publico text-lg mb-4">
               In today’s rapidly evolving digital landscape, the convergence of Artificial Intelligence (AI), Internet of Things (IoT), Smart Grids, Green Energy, Blockchain, Cloud Computing, and Data Analytics plays a transformative role in shaping sustainable societies. This conference serves as a premier platform to exchange ideas, present novel research, and discuss innovative solutions that address global challenges such as climate change, energy efficiency, smart cities, sustainable manufacturing, and digital governance.

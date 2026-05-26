@@ -26,7 +26,7 @@ const ConferenceBanner = () => {
         {/* Center - Conference Details */}
         <div className="text-center text-white flex-grow">
           <h1 className="text-lg md:text-2xl font-medium tracking-tight mb-2">
-            International Conference on Intelligent, Interconnected &amp; Innovative Technologies
+            International Conference on Intelligent Computing, Information &amp; Innovative Data Technologies
           </h1>
           <h2 className="text-base md:text-xl font-medium mb-2">(ICI3T 2026)</h2>
           <p className="text-sm md:text-base font-medium mb-2">
