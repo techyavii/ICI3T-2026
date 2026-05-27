@@ -23,68 +23,81 @@ const CallForPapers: React.FC = () => {
           <div className="mb-6">
             <div className="flex flex-col gap-6">
               <div>
-                <h4 className="font-druk text-xl">Track 1: Networks and Communication Technologies</h4>
+                <h4 className="font-druk text-xl">Track 1: Intelligent Computing &amp; Artificial Intelligence</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  <li>Wireless, Mobile, and 5G/6G Networks</li>
-                  <li>Internet of Things (IoT) and Sensor Networks</li>
-                  <li>Network Architectures, Protocols, and Security</li>
-                  <li>Software-Defined and Cognitive Networks</li>
-                  <li>Edge, Fog, and Cloud Networking</li>
+                  <li>Artificial Intelligence and Machine Learning</li>
+                  <li>Deep Learning and Neural Networks</li>
+                  <li>Explainable AI</li>
+                  <li>Natural Language Processing</li>
+                  <li>Computer Vision and Image Processing</li>
+                  <li>Reinforcement Learning</li>
+                  <li>Cognitive Computing</li>
+                  <li>Intelligent Decision Support Systems</li>
+                  <li>Robotics and Autonomous Systems</li>
+                  <li>AI for Healthcare, Education, and Smart Cities</li>
                 </ul>
               </div>
 
               <div>
-                <h4 className="font-druk text-xl">Track 2: Computing Systems and Architectures</h4>
+                <h4 className="font-druk text-xl">Track 2: Data Science &amp; Innovative Data Technologies</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  <li>High-Performance and Parallel Computing</li>
-                  <li>Distributed and Cloud Systems</li>
-                  <li>Embedded and Cyber-Physical Systems</li>
-                  <li>Green and Energy-Efficient Computing</li>
-                  <li>Quantum and Neuromorphic Computing</li>
-                </ul>
-              </div>
-
-              <div>
-                <h4 className="font-druk text-xl">Track 3: Data Analytics and Artificial Intelligence</h4>
-                <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  <li>Machine Learning and Deep Learning Applications</li>
-                  <li>Big Data Processing and Management</li>
+                  <li>Big Data Analytics</li>
                   <li>Data Mining and Knowledge Discovery</li>
-                  <li>Predictive Analytics and Decision Support Systems</li>
-                  <li>Explainable AI and Responsible Data Science</li>
+                  <li>Predictive Analytics</li>
+                  <li>Business Intelligence</li>
+                  <li>Data Visualization</li>
+                  <li>Cloud Data Platforms</li>
+                  <li>Data Warehousing</li>
+                  <li>Real-Time Data Processing</li>
+                  <li>Data Governance and Ethics</li>
+                  <li>Smart Data Management</li>
+                  <li>Industrial Data Analytics</li>
+                  <li>Social Network Analytics</li>
                 </ul>
               </div>
 
               <div>
-                <h4 className="font-druk text-xl">Track 4: Security, Privacy, and Trust</h4>
+                <h4 className="font-druk text-xl">Track 3: Information &amp; Communication Technologies</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  <li>Network and System Security</li>
-                  <li>Data Privacy and Cryptography</li>
-                  <li>Blockchain and Distributed Ledger Technologies</li>
-                  <li>Intrusion Detection and Threat Intelligence</li>
-                  <li>Secure Computing and Access Control</li>
+                  <li>Wireless Communication</li>
+                  <li>5G/6G Networks</li>
+                  <li>Internet of Things (IoT)</li>
+                  <li>Edge and Fog Computing</li>
+                  <li>Mobile Computing</li>
+                  <li>Cyber-Physical Systems</li>
+                  <li>Human-Computer Interaction</li>
+                  <li>Multimedia Technologies</li>
+                  <li>Smart Communication Systems</li>
+                  <li>Software Engineering and Applications</li>
                 </ul>
               </div>
 
               <div>
-                <h4 className="font-druk text-xl">Track 5: Applications and Emerging Technologies</h4>
+                <h4 className="font-druk text-xl">Track 4: Cybersecurity &amp; Privacy</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  <li>Smart Cities and Intelligent Infrastructure</li>
-                  <li>Autonomous Systems and Robotics</li>
-                  <li>Healthcare Informatics and Bio-Computing</li>
-                  <li>Financial, Industrial, and Environmental Data Analytics</li>
-                  <li>Human–Computer Interaction and Visualization</li>
+                  <li>Information Security</li>
+                  <li>Network Security</li>
+                  <li>Blockchain Technologies</li>
+                  <li>Digital Forensics</li>
+                  <li>Privacy-Preserving Technologies</li>
+                  <li>Cryptography and Authentication</li>
+                  <li>Cyber Threat Intelligence</li>
+                  <li>Secure Cloud Computing</li>
                 </ul>
               </div>
 
               <div>
-                <h4 className="font-druk text-xl">Track 6: Transparent, Accountable and Responsible AI use cases</h4>
+                <h4 className="font-druk text-xl">Track 5: Emerging and Interdisciplinary Technologies</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-                  {/* <li>Smart Cities and Intelligent Infrastructure</li>
-                  <li>Autonomous Systems and Robotics</li>
-                  <li>Healthcare Informatics and Bio-Computing</li>
-                  <li>Financial, Industrial, and Environmental Data Analytics</li>
-                  <li>Human–Computer Interaction and Visualization</li> */}
+                  <li>Quantum Computing</li>
+                  <li>Green Computing</li>
+                  <li>Industry 5.0</li>
+                  <li>Smart Manufacturing</li>
+                  <li>Digital Twin Technologies</li>
+                  <li>FinTech and Smart Banking</li>
+                  <li>Intelligent Transportation Systems</li>
+                  <li>AR/VR Applications</li>
+                  <li>Sustainable Computing Technologies</li>
                 </ul>
               </div>
             </div>
