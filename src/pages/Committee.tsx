@@ -25,12 +25,13 @@ const technicalProgramChairs = [
 ];
 
 const publicationChairs = [
-  { name: "Iulian Ciocoiu", affiliation: "Gheorghe Asachi Technical University of Iasi, Romania" },
+  { name: "Prerna Mann", affiliation: "Maharaja Agrasen Institute of Technology, Delhi, India" },
   { name: "Utku Kose", affiliation: "Suleyman Demirel University, Isparta, Turkey" },
   { name: "Prasanalakshmi B", affiliation: "King Khalid University, Saudi Arabia" },
 ];
 
 const conveners = [
+  { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
   { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
 ];
 
