@@ -25,13 +25,12 @@ const technicalProgramChairs = [
 ];
 
 const publicationChairs = [
-  { name: "Prerna Mann", affiliation: "Maharaja Agrasen Institute of Technology, Delhi, India" },
   { name: "Utku Kose", affiliation: "Suleyman Demirel University, Isparta, Turkey" },
   { name: "Prasanalakshmi B", affiliation: "King Khalid University, Saudi Arabia" },
 ];
 
 const conveners = [
-  { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
+  { name: "Prerna Mann", affiliation: "Maharaja Agrasen Institute of Technology, Delhi, India" },
   { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
 ];
 
