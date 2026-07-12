@@ -9,7 +9,7 @@ const IndexingSection: React.FC = () => {
         <div className="bg-blue-600 text-white py-2 mb-8 overflow-hidden">
           <div className="animate-marquee whitespace-nowrap">
             <span className="text-lg font-bold mx-8">
-              ICI3T 2026: PREMIER GLOBAL FORUM FOR NETWORKS, COMPUTING SYSTEMS, AND DATA ANALYTICS
+              All the accepted papers of ICI3T 2026 will be published as a proceedings of ICI3T 2026  in Springer Lecture Notes in Networks & Systems (LNNS), indexed by Scopus, EI, WoS and other reputed Databases.
             </span>
             <span className="text-lg font-bold mx-8">
               JOIN US AT TBD • 29-30 MAY 2026

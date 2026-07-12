@@ -29,7 +29,10 @@ const About: React.FC = () => {
             and industry to address emerging technological challenges.
           </p>
           <p className="font-publico text-lg text-goldsmiths-text leading-relaxed text-justify">
-            <strong>ICI3T invites original research papers, case studies, and industrial experiences that address current trends, breakthroughs, and future directions in the interdisciplinary areas of networks, computing systems, and data analytics.</strong>
+            ICI3T invites original research papers, case studies, and industrial experiences that address current trends, breakthroughs, and future directions in the interdisciplinary areas of networks, computing systems, and data analytics.
+          </p>
+          <p className="font-publico text-lg text-goldsmiths-text leading-relaxed text-justify">
+            <strong>All the accepted papers of ICI3T 2026 will be published as a proceedings of ICI3T 2026  in Springer Lecture Notes in Networks & Systems (LNNS), indexed by Scopus, EI, WoS and other reputed Databases.</strong>
           </p>
           <Link to="https://cmt3.research.microsoft.com/ICIIIT2026" >
             <Button className="mt-4">Paper Submission Link</Button>

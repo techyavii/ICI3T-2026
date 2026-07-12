@@ -42,12 +42,22 @@ const ConferenceBanner = () => {
         </div>
 
         {/* Right Logo - University Logo */}
-        <div className="bg-white p-2 rounded-lg shadow-sm inline-block">
-          <img
-            src="/lovable-uploads/lasi.jpeg"
-            alt="Technical University Gheorghe Asachi iasi Romani"
-            className="h-16 md:h-20 w-auto"
-          />
+        <div className=" p-2 gap-5 rounded-lg flex flex-col items-center shadow-sm">
+          <div className="bg-white p-2 rounded-lg shadow-sm">
+            <img
+              src="/lovable-uploads/lasi.jpeg"
+              alt="Technical University Gheorghe Asachi iasi Romani"
+              className="h-16 md:h-20 w-auto"
+            />
+          </div>
+          
+          <div className="bg-white p-2 rounded-lg shadow-sm">
+            <img
+              src="/partner/Springer.jpg"
+              alt="Technical University Gheorghe Asachi iasi Romani"
+              className="h-16 md:h-20 w-auto"
+            />
+          </div>
         </div>
       </div>
     </div>
