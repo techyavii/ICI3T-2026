@@ -5,8 +5,6 @@ interface InvitedSpeakerProps {
   experience: string;
   email: string;
   conferenceLink: string;
-  titleOfTalk: string;
-  abstract: string;
   profilePic?: string;
   country: string;
   city: string;
@@ -19,8 +17,6 @@ const InvitedSpeakerCard: React.FC<InvitedSpeakerProps> = ({
   experience,
   email,
   conferenceLink,
-  titleOfTalk,
-  abstract,
   profilePic,
   country,
   city,
