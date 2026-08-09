@@ -605,7 +605,7 @@ const specialRecognitionAwards = [
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://forms.gle/e5LEixJAap4c7fM38"
+                href="https://forms.gle/bSWx7Jn1hXDBchnu8"
                 target="_blank"
                 rel="noopener noreferrer"
               >
