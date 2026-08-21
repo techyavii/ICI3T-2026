@@ -12,12 +12,12 @@ import {
 
 const ImportantDatesSection: React.FC = () => {
   const importantDates = [
-  { title: "Paper Submission Deadline", date: "15th August 2026" },
-  { title: "Acceptance Notification Due", date: "30th August 2026" },
-  { title: "Registration Due", date: "10th July 2026" },
-  { title: "Camera Ready Submission", date: "10th September 2026" },
-  { title: "Conference Dates", date: "26th - 27th October 2026" }
-];
+    { title: "Paper Submission Deadline", date: "30th August 2026" },
+    { title: "Acceptance Notification Due", date: "15th September 2026" },
+    { title: "Registration Due", date: "20th August 2026" },
+    { title: "Camera Ready Submission", date: "20th September 2026" },
+    { title: "Conference Dates", date: "26th - 27th October 2026" }
+  ];
 
 
 
