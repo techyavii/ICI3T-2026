@@ -23,6 +23,7 @@ import ImportantDatesModal from "./components/ImportantDatesModal";
 import CheckoutForm from './pages/Checkout';
 import Awards from './pages/Awards';
 import InvitedSpeakers from './pages/InvitedSpeaker';
+import KeynoteSpeakers from './components/KeynoteSpeakers';
 
 const queryClient = new QueryClient();
 
@@ -47,6 +48,7 @@ const App: React.FC = () => (
               <Route path="/registration" element={<Registration />} />
               <Route path="/checkout" element={<CheckoutForm />} />
               <Route path="/invited-speakers" element={<InvitedSpeakers />} />
+              <Route path="/keynote-speakers" element={<KeynoteSpeakers />} />
               <Route path="/publications" element={<Publications />} />
               <Route path="/conference-venue" element={<ConferenceVenue />} />
               <Route path="/downloads" element={<Downloads />} />
