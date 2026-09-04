@@ -30,7 +30,6 @@ const publicationChairs = [
 ];
 
 const conveners = [
-  { name: "Prerna Mann", affiliation: "Maharaja Agrasen Institute of Technology, Delhi, India" },
   { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
 ];
 
