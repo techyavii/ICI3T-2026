@@ -61,6 +61,12 @@ const KeynoteSpeakers = () => {
       company: "Tata Consultancy Services Limited",
       profilePic: "keynotes/Sriram-Adityan.jpeg",
     },
+    {
+      name: "Raunaq Malik",
+      designation: "Product Manager",
+      company: "Expedia Group",
+      profilePic: "keynotes/Raunaq-Malik.jpeg",
+    },
   ];
 
   return (
