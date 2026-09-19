@@ -67,6 +67,12 @@ const KeynoteSpeakers = () => {
       company: "Expedia Group",
       profilePic: "keynotes/Raunaq-Malik.jpeg",
     },
+        {
+  name: "Sai Raghu Ram Gummadidala",
+  designation: "",
+  company: "iSolve Technology Inc.",
+  profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
+},
   ];
 
   return (
