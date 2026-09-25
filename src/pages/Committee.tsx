@@ -33,6 +33,13 @@ const conveners = [
   { name: "Oana Gemen", affiliation: "Chalmers University of Technology, Sweden" },
 ];
 
+const coConveners = [
+  { name: "Vinay Kumar Deeti", affiliation: "Collaborate Solutions, USA" },
+  { name: "Karthik Juluri", affiliation: "Cvs health, USA" },
+  { name: "Pranayachandanreddy Gottimukkala", affiliation: "Petsmart, USA" },
+  { name: "Sai Kiran Nandipati", affiliation: "Ernst & Young, United States" },
+];
+
 const advisoryCommittee = [
   { name: "George A. Tsihrintzis", affiliation: "University of Piraeus, Greece" },
   { name: "Dijana Oreski", affiliation: "University of Zagreb, Varazdin, Croatia" },
@@ -118,6 +125,7 @@ const technicalProgramCommittee = [
             <CommitteeSection title="Technical Program Chair(s)" members={technicalProgramChairs} />
             <CommitteeSection title="Publication Chair(s)" members={publicationChairs} />
             <CommitteeSection title="Convener(s)" members={conveners} />
+            <CommitteeSection title="Co-convener(s)" members={coConveners} />
             {/* <CommitteeSection title="Awards Chair(s)" members={awardsChairs} /> */}
             <CommitteeSection title="Advisory Committee" members={advisoryCommittee} />
             <CommitteeSection title="Technical Program Committee" members={technicalProgramCommittee} />
