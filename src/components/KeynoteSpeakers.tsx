@@ -85,6 +85,12 @@ const KeynoteSpeakers = () => {
   company: "",
   profilePic: "keynotes/sudarshan-mondal.jpeg",
 },
+{
+  name: "Gopichand Talluri",
+  designation: "",
+  company: "ANNSLO TECH INC",
+  profilePic: "keynotes/gopichand-talluri.jpeg",
+},
   ];
 
   return (
