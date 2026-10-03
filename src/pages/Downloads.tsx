@@ -8,22 +8,42 @@ const Downloads = () => {
   const downloadItems = [
     {
       name: 'Checklist',
-      link: '/Checklist.pdf',
+      link: '/downloads/Checklist.pdf',
       icon: <FileText className="mr-2" size={18} />
     },
     {
       name: 'Manuscript guidelines',
-      link: '/Manuscript_Guidelines.pdf',
+      link: '/downloads/Manuscript_Guidelines.pdf',
       icon: <FileText className="mr-2" size={18} />
     },
     {
       name: 'Springer Word Template',
-      link: '/Springer_Word_Template.zip',
+      link: '/downloads/Springer_Word_Template.zip',
       icon: <FileText className="mr-2" size={18} />
     },
     {
       name: 'Springer Latex Template',
-      link: '/Springer_Latex_Template.zip',
+      link: '/downloads/Springer_Latex_Template.zip',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'ICI3T 2026 Presentation Template (PPT)',
+      link: '/downloads/ICI3T_2026_PPT_Template_Springer.pptx',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'ICI3T 2026 Presentation Template (PDF)',
+      link: '/downloads/ICI3T_2026_PPT_Template_Springer.pdf',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'ICI3T 2026 Presentation Template (PPT)',
+      link: '/downloads/ICI3T_2026_PPT_Template_Adroid.pptx',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'ICI3T 2026 Presentation Template (PDF)',
+      link: '/downloads/ICI3T_2026_PPT_Template_Adroid.pdf',
       icon: <FileText className="mr-2" size={18} />
     },
   ];
