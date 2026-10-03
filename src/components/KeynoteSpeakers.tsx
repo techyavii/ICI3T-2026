@@ -72,6 +72,18 @@ const KeynoteSpeakers = () => {
   designation: "",
   company: "iSolve Technology Inc.",
   profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
+},,
+{
+  name: "Asadullah Saif Mohammed",
+  designation: "Sr. Technical Program Manager",
+  company: "",
+  profilePic: "keynotes/asadullah-saif-mohammed.jpeg",
+},
+{
+  name: "Sudarshan Mondal",
+  designation: "Enterprise HCM & AI",
+  company: "",
+  profilePic: "keynotes/sudarshan-mondal.jpeg",
 },
   ];
 

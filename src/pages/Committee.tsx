@@ -41,6 +41,7 @@ const coConveners = [
 ];
 
 const advisoryCommittee = [
+  { name: "Syed Hidayathulla", affiliation: "Senior Data Governance Architect, USA" },
   { name: "George A. Tsihrintzis", affiliation: "University of Piraeus, Greece" },
   { name: "Dijana Oreski", affiliation: "University of Zagreb, Varazdin, Croatia" },
   { name: "Nuno M. Garcia", affiliation: "University of Beira Interior, Portugal" },
