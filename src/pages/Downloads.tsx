@@ -46,6 +46,11 @@ const Downloads = () => {
       link: '/downloads/ICI3T_2026_PPT_Template_Adroid.pdf',
       icon: <FileText className="mr-2" size={18} />
     },
+    {
+      name: 'ICI3T 2026 Licence & Contributor Agreement Form',
+      link: '/downloads/LC_agreement.docx',
+      icon: <FileText className="mr-2" size={18} />
+    },
   ];
 
   return (
