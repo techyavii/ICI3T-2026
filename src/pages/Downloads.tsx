@@ -51,6 +51,11 @@ const Downloads = () => {
       link: '/downloads/LC_agreement.docx',
       icon: <FileText className="mr-2" size={18} />
     },
+    {
+      name: 'ICI3T 2026 Paper Presentation Schedule',
+      link: '/downloads/Paper Presentation Schedule_ICI3T_2026_Springer.docx',
+      icon: <FileText className="mr-2" size={18} />
+    },
   ];
 
   return (
