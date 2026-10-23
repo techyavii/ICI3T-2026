@@ -106,11 +106,11 @@ const CallForPapers: React.FC = () => {
           {/* <div className="mt-8">
             <h3 className="font-druk text-xl text-[#001324] mb-4">Important Dates</h3>
             <ul className="list-disc pl-6 space-y-2 font-graphik">
-              <li>Paper Submission Deadline: <strong>15th August 2026</strong></li>
-              <li>Acceptance Notification Due: <strong>30th August 2026</strong></li>
-              <li>Registration Due: <strong>10th July 2026</strong></li>
-              <li>Camera Ready Submission: <strong>10th September 2026</strong></li>
-              <li>Conference Dates: <strong>26th - 27th October 2026</strong></li>
+              <li>Paper Submission Deadline: <strong>05th November 2026</strong></li>
+              <li>Acceptance Notification Due: <strong>25th November 2026</strong></li>
+              <li>Registration Due: <strong>30th November 2026</strong></li>
+              <li>Camera Ready Submission: <strong>30th November 2026</strong></li>
+              <li>Conference Dates: <strong>25th - 26th January 2027</strong></li>
             </ul>
           </div> */}
 

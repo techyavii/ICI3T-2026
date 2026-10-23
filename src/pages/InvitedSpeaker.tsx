@@ -42,7 +42,33 @@ const InvitedSpeakers = () => {
   profilePic: "invited-speakers/pratham-pravin-patkar.jpeg",
   country: "",
   city: "",
-}
+},
+{
+  name: "Mihira Kumar Patra",
+  designation: "Senior Manager",
+  company: "PwC",
+  experience: "20 Years",
+  email: "mihirakumarpatra8@gmail.com",
+  conferenceLink: "https://www.ici3t.com/",
+  areaOfResearch:
+    "Enterprise Data Migration, Data Governance, SAP S/4HANA Transformation, Data Quality Management, Migration Strategy, Cutover Execution & Digital Transformation",
+  profilePic: "invited-speakers/mihira-kumar-patra.jpeg",
+  country: "",
+  city: "",
+},
+{
+  name: "Kirankumar Thota",
+  designation: "Software Engineer",
+  company: "Explicit Systems",
+  experience: "16+ Years",
+  email: "kirankumarthota712@gmail.com",
+  conferenceLink: "https://www.ici3t.com/",
+  areaOfResearch:
+    "Enterprise Cybersecurity, Identity and Access Management (IAM), Zero Trust Architecture, Identity Threat Detection and Response (ITDR), Privileged Access Security, Artificial Intelligence, API Protection & Federated Identity Management",
+  profilePic: "invited-speakers/kirankumar-thota.jpeg",
+  country: "",
+  city: "",
+},
 ];
 
   return (
