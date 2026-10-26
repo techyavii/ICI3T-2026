@@ -68,7 +68,7 @@ const InvitedSpeakers = () => {
   profilePic: "invited-speakers/kirankumar-thota.jpeg",
   country: "",
   city: "",
-},
+}
 ];
 
   return (

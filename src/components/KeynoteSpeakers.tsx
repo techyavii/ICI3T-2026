@@ -91,6 +91,18 @@ const KeynoteSpeakers = () => {
   company: "ANNSLO TECH INC",
   profilePic: "keynotes/gopichand-talluri.jpeg",
 },
+  {
+    name: "Chandra Sekhar Oleti",
+    designation: "Vice President, Manager of Software Engineering",
+    company: "JPMorganChase",
+    profilePic: "keynotes/chandra-sekhar-oleti.jpeg",
+  },
+  {
+    name: "Uttama Reddy Sanepalli",
+    designation: "Senior Solution Architect",
+    company: "Fidelity Investments, USA",
+    profilePic: "keynotes/uttama-reddy-sanepalli.jpeg",
+  },
   ];
 
   return (
