@@ -38,7 +38,8 @@ const coConveners = [
   { name: "Karthik Juluri", affiliation: "Cvs health, USA" },
   { name: "Pranayachandanreddy Gottimukkala", affiliation: "Petsmart, USA" },
   { name: "Sai Kiran Nandipati", affiliation: "Ernst & Young, United States" },
-  { name: "Binitkumar M Vaghani", affiliation: "Michigan Technological University, USA" }
+  { name: "Binitkumar M Vaghani", affiliation: "Michigan Technological University, USA" },
+  { name: "Arjun Shivarudraiah", affiliation: "Meijer Inc, USA" }
 ];
 
 const advisoryCommittee = [
