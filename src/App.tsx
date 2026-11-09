@@ -24,6 +24,8 @@ import CheckoutForm from './pages/Checkout';
 import Awards from './pages/Awards';
 import InvitedSpeakers from './pages/InvitedSpeaker';
 import KeynoteSpeakers from './components/KeynoteSpeakers';
+import BestPaperAwards from './pages/BestPaperAwards';
+import AwardsResults from './pages/AwardResults';
 
 const queryClient = new QueryClient();
 
@@ -54,6 +56,8 @@ const App: React.FC = () => (
               <Route path="/downloads" element={<Downloads />} />
               <Route path="/privacy-policy" element={<PrivacyPolicy />} />
               <Route path="/awards" element={<Awards />} />
+              <Route path="/best-paper-awards" element={<BestPaperAwards />} />
+              <Route path="/awards-results" element={<AwardsResults />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>
